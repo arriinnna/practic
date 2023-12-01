@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Calculattor\Calculattor\bin\Release\Calculattor.exe.config
+C:\Users\Admin\source\repos\Calculattor\Calculattor\bin\Release\Calculattor.exe
+C:\Users\Admin\source\repos\Calculattor\Calculattor\bin\Release\Calculattor.pdb
+C:\Users\Admin\source\repos\Calculattor\Calculattor\obj\Release\Calculattor.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Calculattor\Calculattor\obj\Release\Calculattor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\Calculattor\Calculattor\obj\Release\Calculattor.Form1.resources
+C:\Users\Admin\source\repos\Calculattor\Calculattor\obj\Release\Calculattor.Properties.Resources.resources
+C:\Users\Admin\source\repos\Calculattor\Calculattor\obj\Release\Calculattor.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Calculattor\Calculattor\obj\Release\Calculattor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Calculattor\Calculattor\obj\Release\Calculattor.exe
+C:\Users\Admin\source\repos\Calculattor\Calculattor\obj\Release\Calculattor.pdb
